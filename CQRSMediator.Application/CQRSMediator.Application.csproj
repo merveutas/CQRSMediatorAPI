@@ -9,10 +9,8 @@
   <ItemGroup>
     <Folder Include="Common\Behaviors\" />
     <Folder Include="Common\Exceptions\" />
-    <Folder Include="Products\Commands\CreateProduct\" />
     <Folder Include="Products\Commands\DeleteProduct\" />
     <Folder Include="Products\Commands\UpdateProduct\" />
-    <Folder Include="Products\Queries\GetProductById\" />
   </ItemGroup>
 
   <ItemGroup>
