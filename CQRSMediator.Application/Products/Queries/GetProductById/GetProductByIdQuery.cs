@@ -11,6 +11,7 @@ namespace CQRSMediator.Application.Products.Queries.GetProductById
 {
     public class GetProductByIdQuery : IRequest<ProductVm>    
     {
-        publlic int ProductId { get; set; }
+        public int ProductId { get; set; }
+
     }
 }
